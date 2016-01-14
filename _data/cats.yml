@@ -1,0 +1,13 @@
+main: 简介
+basic: 基礎生理學
+insem_a: 體內人工受精
+insem_b: 體外人工受精
+surrogate: 捐卵及代母
+international: 國際培訓項目
+all:
+  - main
+  - basic
+  - insem_a
+  - insem_b
+  - surrogate
+  - international
